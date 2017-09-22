@@ -3088,7 +3088,8 @@
 			}
 
 	}
-.vids{
-	width:400px;
-	height:300px;
+.vids {
+	display: block;
+	width: 100%;
+
 }
