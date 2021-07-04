@@ -3333,7 +3333,6 @@ input, select, textarea {
 			flex-direction: row;
 		}
 		.headspace{
-			padding-top: 5px;
 			padding-right: 25px;
 		}
 		.smaller-font{
